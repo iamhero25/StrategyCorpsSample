@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable-v24/badge_circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/bg_signup.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/btn_round_stroke_orange.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/btn_white_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/circle_gray.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_add_cart.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_backarrow.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_eye_invision.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_home.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_placeholder.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_store.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/ic_wifi.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/rect_gray_border.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/rectangle_light_gray.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/rectangle_multi_gradient.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/drawable/rectangle_multi_gradient_orange.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/activity_login.xml" value="0.325" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/fragment_product_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/fragment_product_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/item_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/item_market_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/item_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/item_recycler_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/item_recycler_category_shimmer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/layout_banner.xml" value="0.5" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/layout_product_placeholder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/shimmer_banner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/layout/shimmer_productlist_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/MedLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable-v24/ic_settings.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/add_shopping_cart_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/badge_circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/bg_blue_gradient.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/bg_blue_gradient_secondary.xml" value="0.3435185185185185" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/bg_gradient.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/btn_bkg_sec.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/btn_blue_mid.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/btn_orange_mid.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/circle_gray.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/dp_ic_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_add.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_add_cart.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_add_cartx.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_backarrow.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_comment.xml" value="0.3435185185185185" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_eye_invision.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_eye_vision.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_filter_list.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_home.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_placeholder.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_profile.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_settingsb.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_share.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_shopping_bag.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_shopping_bagx.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_store.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_sub.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/ic_wifi.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/rect_gray_border.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/round_corner_accent.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/round_corner_button_secondary.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/drawable/shadow.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/activity_walk_through.xml" value="0.271875" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/fragment_product_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/fragment_product_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/item_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/item_chip_tag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/item_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/item_recycler_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/shimmer_banner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/shimmer_category_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/shimmer_product_placeholder_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/layout/shimmer_productlist_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/Hero PC/AndroidStudioProjects/StrategyMed/MedLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
