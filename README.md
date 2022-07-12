@@ -2,7 +2,7 @@
 
 ## Description
 
-As per request, I have built this sample to app to for you to see my code. 
+As per request, I have built this sample app to demonstrate my code. 
 The app currently consumes API from https://us-central1-strategycorp-sample.cloudfunctions.net/app/api/. There are two (2) GET request done for products and categories respectively. The products and categories are retrieved from aforementioned API then stored locally using RoomDb. 
 
 This Application was built with Kotlin and includes:
