@@ -1,10 +1,12 @@
 package com.strategycorps.medlite.ui.fragments
 
+import android.graphics.Color
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.view.isVisible
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import coil.load
@@ -42,9 +44,18 @@ class ProductDetailsFragment : Fragment() {
         binding.apply {
 
             tvProductName.text = product.title
-            tvProductPrice.text = product.price
             tvProductDesc.text = product.description
             tvProductUnit.text = product.unit
+
+            if (product.price == "$0"){
+                tvProductPrice.text = product.originalPrice
+                llOldPrice.isVisible = false
+            } else {
+                llOldPrice.isVisible = true
+                tvOldPrice.text = product.originalPrice
+                tvProductPrice.text = product.price
+                tvProductPrice.setTextColor(Color.parseColor("#0288D1"))
+            }
 
             ivProductImage.load(product.image){
                 placeholder(R.drawable.ic_placeholder)

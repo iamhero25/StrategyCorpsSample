@@ -94,7 +94,6 @@ class ProductListFragment : Fragment(), OnItemClickListener, OnCategorySelectLis
                         println(it.toString())
                         productAdapter.setData(it.data!!)
                     }
-                    Toast.makeText(requireContext(), "Success", Toast.LENGTH_SHORT).show()
                 }
                 is NetworkResult.Error -> {
                     hideShimmerEffect()

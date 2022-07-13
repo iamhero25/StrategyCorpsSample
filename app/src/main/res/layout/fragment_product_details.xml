@@ -92,6 +92,33 @@
                         android:layout_weight="2"
                         android:orientation="horizontal">
 
+                        <RelativeLayout
+                            android:id="@+id/ll_old_price"
+                            android:visibility="visible"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            >
+
+                            <View
+                                android:layout_width="24dp"
+                                android:layout_height="4dp"
+                                android:background="@color/gray_800"
+                                android:layout_centerInParent="true"/>
+
+                            <TextView
+
+                                android:id="@+id/tv_old_price"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/montserrat_medium"
+                                android:includeFontPadding="false"
+                                android:text="$32"
+                                android:textAlignment="center"
+                                android:textSize="22sp" />
+
+                        </RelativeLayout>
+
 
                         <TextView
                             android:id="@+id/tv_product_price"
@@ -100,6 +127,7 @@
                             android:layout_gravity="bottom"
                             android:fontFamily="@font/montserrat_medium"
                             android:text="12"
+                            android:layout_marginStart="4dp"
                             android:textColor="@color/colorAccent"
                             android:textSize="22sp" />
 
@@ -109,7 +137,7 @@
                             android:layout_gravity="bottom"
                             android:fontFamily="@font/montserrat_medium"
                             android:text=" / "
-                            android:textColor="@color/gray_600"
+                            android:textColor="@color/gray_800"
                             android:textSize="14sp" />
 
                         <TextView
@@ -119,7 +147,7 @@
                             android:layout_gravity="bottom"
                             android:fontFamily="@font/montserrat_medium"
                             android:text="Each"
-                            android:textColor="@color/gray_600"
+                            android:textColor="@color/gray_900"
                             android:textSize="14sp" />
                     </LinearLayout>
 
@@ -220,10 +248,10 @@
                     android:layout_marginTop="4dp"
                     android:layout_marginRight="16dp"
                     android:fontFamily="@font/montserrat_medium"
+                    android:textColor="@color/gray_900"
                     android:lineSpacingExtra="5dp"
                     android:text="@string/product_details_placeholder"
-                    android:textColor="@color/gray_600"
-                    android:textSize="14sp" />
+                    android:textSize="16sp" />
 
             </LinearLayout>
 
