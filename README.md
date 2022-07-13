@@ -14,7 +14,7 @@ This Application was built with Kotlin and includes:
 6. Dagger-Hilt
 7. Navigation Component
 8. ViewBinding
-9. JetPack Navigation
+9. RecyclerView
 10. Corourines
 11. Coil
 12. DataStore - To be implemented
